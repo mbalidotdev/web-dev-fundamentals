@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+}
+
+/* BEFORE EXAMPLE */
+.before::before {
+  content: "🔥 ";
+}
+
+/* AFTER EXAMPLE */
+.after::after {
+  content: " ✨";
+}
+
+/* UNDERLINE EXAMPLE */
+.underline {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.underline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -3px;
+  width: 0;
+  height: 2px;
+  background: black;
+  transition: width 0.3s ease;
+}
+
+.underline:hover::after {
+  width: 100%;
+}
+
+/* QUOTE EXAMPLE */
+.quote::before {
+  content: "“";
+  font-size: 20px;
+}
+
+.quote::after {
+  content: "”";
+  font-size: 20px;
+}
+
+/* FIRST LETTER EXAMPLE */
+.first-letter::first-letter {
+  font-size: 40px;
+  font-weight: bold;
+  color: crimson;
+}
+
+/* FIRST LINE EXAMPLE */
+.first-line::first-line {
+  font-weight: bold;
+  color: navy;
+}
