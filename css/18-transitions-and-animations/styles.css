@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+}
+
+/* HOVER COLOR CHANGE */
+.color-box {
+  width: 150px;
+  height: 150px;
+  background: steelblue;
+  transition: background-color 0.4s ease;
+}
+
+.color-box:hover {
+  background: coral;
+}
+
+/* SIZE TRANSITION */
+.grow-btn {
+  padding: 15px 30px;
+  border: none;
+  background: mediumseagreen;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.grow-btn:hover {
+  transform: scale(1.1);
+}
+
+/* OPACITY FADE */
+.fade-text {
+  width: fit-content;
+  padding: 10px;
+  background: lightgray;
+  transition: opacity 0.4s ease;
+}
+
+.fade-text:hover {
+  opacity: 0.3;
+}
+
+/* MULTIPLE PROPERTIES */
+.card {
+  width: 200px;
+  padding: 20px;
+  margin-top: 10px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition:
+    background-color 0.3s ease,
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.card:hover {
+  background: lavender;
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
