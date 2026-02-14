@@ -49,3 +49,9 @@ This repo contains all the fundamentals I learned for web development.
 ### [14. Grid Sizing](https://mbalidotdev.github.io/web-dev-fundamentals/css/14-grid-sizing)
 
 ### [15. Grid Placement](https://mbalidotdev.github.io/web-dev-fundamentals/css/15-grid-placement)
+
+### [16. Pseudo Classes](https://mbalidotdev.github.io/web-dev-fundamentals/css/16-pseudo-classes)
+
+### [17. Pseudo Elements](https://mbalidotdev.github.io/web-dev-fundamentals/css/17-pseudo-elements)
+
+### [18. Transitions and Animations](https://mbalidotdev.github.io/web-dev-fundamentals/css/18-transitions-and-animations)
