@@ -1,0 +1,104 @@
+/* HOVER EXAMPLE */
+.hover {
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  background: pink;
+  font-weight: bold;
+}
+
+.hover:hover {
+  background: navy;
+}
+
+/* ACTIVE EXAMPLE */
+.active {
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  background: orangered;
+  font-weight: bold;
+}
+
+.active:active {
+  background: yellow;
+}
+
+/* FOCUS EXAMPLE */
+.focus {
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  background: rgb(36, 190, 154);
+  font-weight: bold;
+}
+
+.focus:focus {
+  background: yellow;
+  border: 2px dotted red;
+}
+
+/* FIRST CHILD EXAMPLE */
+.first-child {
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  background: rgb(64, 181, 72);
+  font-weight: bold;
+  margin: 5px;
+}
+
+.first-div :first-child {
+  background: rgb(89, 100, 186);
+  border: 10px dotted rgb(8, 8, 8);
+}
+
+/* LAST CHILD EXAMPLE */
+.last-child {
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  background: rgb(109, 35, 92);
+  font-weight: bold;
+  margin: 5px;
+}
+
+.last-div :last-child {
+  background: rgb(89, 100, 186);
+  border: 10px dotted rgb(8, 8, 8);
+}
+
+/* NTH CHILD EXAMPLE */
+.nth-child {
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  background: rgb(84, 109, 35);
+  font-weight: bold;
+  margin: 5px;
+}
+
+.nth-div :nth-child(odd) {
+  background: rgb(199, 37, 37);
+  border: 2px solid rgb(8, 8, 8);
+}
+
+/* NOT CHILD EXAMPLE */
+.not-not-child {
+  border: none;
+  padding: 50px;
+  border-radius: 20px;
+  background: rgb(31, 215, 40);
+  font-weight: bold;
+  margin: 5px;
+}
+
+.not-div :not(.not-not-child) {
+  background: rgb(199, 37, 37);
+  border: 2px solid rgb(8, 8, 8);
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  margin: 5px;
+}
