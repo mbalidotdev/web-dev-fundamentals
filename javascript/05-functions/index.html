@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Learn JavaScript</title>
+
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background: linear-gradient(135deg, #1e1e2f, #2d2d44);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        color: white;
+      }
+
+      .card {
+        background: #2c2c3e;
+        padding: 40px 60px;
+        border-radius: 12px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+        text-align: center;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 2.5rem;
+        letter-spacing: 1px;
+      }
+
+      .highlight {
+        color: #f7df1e;
+      }
+
+      .subtitle {
+        margin-top: 15px;
+        font-size: 1rem;
+        opacity: 0.8;
+      }
+
+      .button {
+        display: inline-block;
+        margin-top: 25px;
+        padding: 12px 24px;
+        background-color: #f7df1e;
+        color: black;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: bold;
+        transition:
+          transform 0.2s ease,
+          box-shadow 0.2s ease;
+      }
+
+      .button:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 15px rgba(247, 223, 30, 0.4);
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="card">
+      <h1>Learn <span class="highlight">Functions</span></h1>
+      <p class="subtitle">Build interactive and dynamic websites.</p>
+      <a href="#" class="button">Start Learning</a>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
