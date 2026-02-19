@@ -55,3 +55,17 @@ This repo contains all the fundamentals I learned for web development.
 ### [17. Pseudo Elements](https://mbalidotdev.github.io/web-dev-fundamentals/css/17-pseudo-elements)
 
 ### [18. Transitions and Animations](https://mbalidotdev.github.io/web-dev-fundamentals/css/18-transitions-and-animations)
+
+---
+
+## JavaScript
+
+### [01. Values and Variables](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/01-values-and-variables)
+
+### [02. Data Types](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/02-data-types)
+
+### [03. String Template Literals](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/03-string-template-literals)
+
+### [04. Conditional Statements](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/04-conditional-statements)
+
+### [05. Functions](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/05-functions)
