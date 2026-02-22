@@ -69,3 +69,5 @@ This repo contains all the fundamentals I learned for web development.
 ### [04. Conditional Statements](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/04-conditional-statements)
 
 ### [05. Functions](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/05-functions)
+
+### [06. Scope](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/06-scope)
