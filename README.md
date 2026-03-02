@@ -71,3 +71,5 @@ This repo contains all the fundamentals I learned for web development.
 ### [05. Functions](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/05-functions)
 
 ### [06. Scope](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/06-scope)
+
+### [07. Arrays](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/07-arrays)
