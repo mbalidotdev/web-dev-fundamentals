@@ -73,3 +73,5 @@ This repo contains all the fundamentals I learned for web development.
 ### [06. Scope](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/06-scope)
 
 ### [07. Arrays](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/07-arrays)
+
+### [08. Loops](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/08-loops)
