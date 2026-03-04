@@ -75,3 +75,5 @@ This repo contains all the fundamentals I learned for web development.
 ### [07. Arrays](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/07-arrays)
 
 ### [08. Loops](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/08-loops)
+
+### [09. Objects](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/09-objects)
