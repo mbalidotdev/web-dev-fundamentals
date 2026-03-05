@@ -77,3 +77,7 @@ This repo contains all the fundamentals I learned for web development.
 ### [08. Loops](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/08-loops)
 
 ### [09. Objects](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/09-objects)
+
+### [10. Higher Order Functions](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/10-higher-order-functions)
+
+### [11. Iterators](https://mbalidotdev.github.io/web-dev-fundamentals/javascript/11-iterators)
